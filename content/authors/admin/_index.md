@@ -126,6 +126,20 @@ skills:
         description: ''
         percent: 80
         icon: camera
+  - name: Soft Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
 
 languages:
   - name: English
