@@ -80,7 +80,7 @@ work:
     company_url: 'https://www.consensus.com/'
     company_logo: ''
     date_start: 2023-03-01
-    date_end: ''
+    date_end: 'present'
     summary: |2-
      • Spearheading digital adoption program on flagship web-app through collaboration
         with dev team, tech writers, and VPs in preparation for multi-brand expansion.
