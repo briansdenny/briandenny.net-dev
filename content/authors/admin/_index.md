@@ -83,13 +83,13 @@ work:
     date_end: ''
     summary: |2-
          
-      - Spearheading digital adoption program on flagship web-app through collaboration with dev team, tech writers, and VPs in preparation for multi-brand expansion.
-      - Training traditional tech writers on writing/planning microcontent; segmenting content with Chrome DevTools, and collecting/analyzing a variety of data streams.
-      - Regularly designing and conducting logistic regressions on experimental data (A/B tests, user surveys, cancel rates) to provide new insights for product team. 
-      - Creating and implementing in-app upgrade process with customized microcontent to drive revenue while reducing costs associated with sales efforts. 
-      - Designing, recording, and editing videos and GIFs for company-wide distribution, efficient communication with QA team, and/or inclusion in digital adoption content. 
-      - Using employee interviews to document billing workflows and payment processing. 
-      - Initiated User Experience interviewing to identify user workflows and pain points as part of digital adoption development strategy for digital signing web-app.
+      - Spearheading digital adoption program on flagship app through collaboration with dev team, tech writers, and VPs in preparation for multi-brand expansion.
+      - Training traditional tech writers on writing/planning microcontent; segmenting content with DevTools, and collecting/analyzing a variety of data streams.
+      - Regularly designing and conducting logistic regressions on experimental data (A/B tests, user surveys, cancel rates) to provide product team with insights. 
+      - Creating and implementing in-app upgrade process via microcontent to drive revenue while reducing costs associated with sales efforts. 
+      - Designing, recording, and editing videos and GIFs for company-wide distribution, info sharing with QA team, and inclusion in app microcontent. 
+      - Conducting and observing employee interviews to document billing workflows and payment processing. 
+      - Initiated User Interviews to identify user workflows and pain points as part of digital adoption development strategy for digital signing web-app.
       - Reduced cancellations by 16% after designing, validating, and implementing customer-facing digital adoption microcontent to supplement existing UI. 
       - Furthered a “Top 5” company goal by conducting market research on API developer community portals to inform future product development.
   - position: Editor
