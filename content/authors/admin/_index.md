@@ -47,11 +47,11 @@ education:
     institution: University of California, Irvine
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    # summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+      # text: 'Read Thesis'
+      # url: 'https://example.com'
   - area: BA International Affairs
     institution: Florida State University
     date_start: 2016-01-01
