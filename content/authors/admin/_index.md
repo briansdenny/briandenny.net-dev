@@ -75,28 +75,44 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Senior Technical Writer & Whatfix Lead
+    company_name: Consensus Cloud Solutions, Inc
+    company_url: 'https://www.consensus.com/'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-03-01
     date_end: ''
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      • Spearheading digital adoption program on flagship web-app through collaboration
+        with dev team, tech writers, and VPs in preparation for multi-brand expansion.
+      • Training traditional tech writers on writing/planning microcontent; segmenting
+        content with Chrome DevTools, and collecting/analyzing a variety of data streams.
+      • Regularly designing and conducting logistic regressions on experimental data (A/B
+        tests, user surveys, cancel rates) to provide new insights for product team.
+      • Creating and implementing in-app upgrade process with customized microcontent
+        to drive revenue while reducing costs associated with sales efforts.
+      • Designing, recording, and editing videos and GIFs for company-wide distribution,
+        efficient communication with QA team, and/or inclusion in digital adoption content.
+      • Using employee interviews to document billing workflows and payment processing.
+      • Initiated User Experience interviewing to identify user workflows and pain points
+        as part of digital adoption development strategy for digital signing web-app.
+      • Reduced cancellations by 16% after designing, validating, and implementing
+        customer-facing digital adoption microcontent to supplement existing UI.
+      • Furthered a “Top 5” company goal by conducting market research on API developer
+        community portals to inform future product development.
+  - position: Editor
+    company_name: Harvard (forthcoming); University of Michigan, Ann Arbor; University of California, Irvine
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2018-08-01
+    date_end: ''
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      • Conducting all manner of editing (developmental, line, copy) for artificial
+        intelligence researcher’s dissertation chapters, presentations, academic articles,
+        job market material, and grant proposals (one awarded $2.5 million).
+      • Collaborated with graduate/doctoral students across a range of disciplines at Univ.
+        of CA-Irvine Graduate Resource Center to refine national grant applications (one
+        awarded $138,000), dissertations, publications, cover letters, and CVs.
+      • Led Dissertations Boot Camp for advanced doctoral students
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
