@@ -82,7 +82,12 @@ work:
     date_start: 2023-03-01
     date_end: ''
     summary: |2-
-     
+      GPA: 3.8/4.0
+
+      Courses included:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Editor
     company_name: Harvard (forthcoming); University of Michigan, Ann Arbor; University of California, Irvine
     company_url: ''
