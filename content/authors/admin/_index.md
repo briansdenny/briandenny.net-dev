@@ -58,7 +58,7 @@ education:
     date_end: 2020-12-31
     summary: |
      
-  - area: BSc Political Science
+  - area: BSc with honors Political Science
     institution: Florida State University
     date_start: 2016-01-01
     date_end: 2020-12-31
