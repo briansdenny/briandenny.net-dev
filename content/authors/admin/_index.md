@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Brian Denny
+title: Brian S Denny
 
 # Name pronunciation (optional)
 # name_pronunciation: Chien Shiung Wu
