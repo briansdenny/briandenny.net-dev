@@ -33,18 +33,18 @@ profiles:
   - icon: at-symbol
     url: 'mailto:briansdenny@gmail.com'
     label: E-mail Me
-  - #icon: brands/x
-    #url: https://twitter.com/GetResearchDev
-  - #icon: brands/instagram
-    #url: https://www.instagram.com/
-  - #icon: brands/github
-    #url: https://github.com/gcushen
+  - icon: brands/x
+    url: https://twitter.com/GetResearchDev
+  - icon: brands/instagram
+    url: https://www.instagram.com/
+  - icon: brands/github
+    url: https://github.com/gcushen
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/brian-denny-33b67a3b/
-  - #icon: academicons/google-scholar
-    #url: https://scholar.google.com/
-  - #icon: academicons/orcid
-    #url: https://orcid.org/
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/
+  - icon: academicons/orcid
+    url: https://orcid.org/
 
 interests:
   - Writing & Editing
@@ -54,8 +54,8 @@ interests:
 education:
   - area: MA Political Science
     institution: University of California, Irvine
-    #date_start: 2016-01-01
-    #date_end: 2020-12-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -63,8 +63,8 @@ education:
       url: 'https://example.com'
   - area: BA International Affairs
     institution: Florida State University
-    #date_start: 2016-01-01
-    #date_end: 2020-12-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       GPA: 3.8/4.0
 
@@ -74,8 +74,8 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - area: BSc Political Science
     institution: Florida State University
-    #date_start: 2016-01-01
-    #date_end: 2020-12-31
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
       
       
