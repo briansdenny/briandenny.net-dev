@@ -100,6 +100,9 @@ work:
     date_end: ''
     summary: |
 
+      - Conducting all manner of editing (developmental, line, copy) for artificial intelligence researcher’s dissertation chapters, presentations, academic articles, job market material, and grant proposals (one awarded $2.5 million). 
+      - Collaborated with graduate/doctoral students across a range of disciplines at Univ. of CA-Irvine Graduate Resource Center to refine national grant applications (one awarded $138,000), dissertations, publications, cover letters, and CVs. 
+      - Led Dissertations Boot Camp for advanced doctoral students.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
