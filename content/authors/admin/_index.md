@@ -97,7 +97,7 @@ work:
         as part of digital adoption development strategy for digital signing web-app.
      • Reduced cancellations by 16% after designing, validating, and implementing
         customer-facing digital adoption microcontent to supplement existing UI.
-      • Furthered a “Top 5” company goal by conducting market research on API developer
+     • Furthered a “Top 5” company goal by conducting market research on API developer
         community portals to inform future product development.
   - position: Editor
     company_name: Harvard (forthcoming); University of Michigan, Ann Arbor; University of California, Irvine
