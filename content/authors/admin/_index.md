@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 吳健雄
+title: Brian Denny
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
