@@ -1,13 +1,13 @@
 ---
-title: Pandas
-date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+title: Link to Drive Document
+date: 
+external_link: https://docs.google.com/document/d/1Mx04YMMvGGacIVRiFUY_4pr98eu_u4Zf/edit#heading=h.1fob9te
 tags:
   - Hugo
   - Wowchemy
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This is the description.
 
 <!--more-->
