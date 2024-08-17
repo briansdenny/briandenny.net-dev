@@ -14,7 +14,7 @@ main:
     url: projects/
     weight: 30
   - name: Papers & Presentations
-    url: /#papers
+    url: publications/
     weight: 40
   - name: Teaching
     url: teaching/
