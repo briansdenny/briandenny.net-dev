@@ -1,12 +1,12 @@
 ---
-title: 🧠 Sharpen your thinking with a second brain
-summary: Create a personal knowledge base and share your knowledge with your peers.
+title: 🧠 Data sharing with Technical Program Director
+summary: First meeting with the Technical Program Director to review data available via Whatfix.
 date: 2023-10-26
 authors:
   - admin
 tags:
-  - Second Brain
-  - Markdown
+  - Consensus
+  - Whatfix
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
 ---
