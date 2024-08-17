@@ -97,7 +97,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
       - name: Markdown
         description: ''
@@ -107,12 +107,6 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: test
-        description: ''
-        percent: 40
-        icon: "custom/palette-line"
-  - name: Other Skills
-    items:
       - name: Process Mapping
         description: ''
         percent: 80
@@ -140,7 +134,7 @@ skills:
       - name: Making Art
         description: ''
         percent: 80
-        icon: hero/paint-brush
+        icon: "custom/palette-line"
 
 languages:
   - name: English ... I deleted this whole section, including the "languages" above but the header "Languages" stayed on the page after publishing. Find it and then remove that and this section.
