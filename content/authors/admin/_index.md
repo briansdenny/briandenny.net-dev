@@ -99,41 +99,53 @@ work:
 skills:
   - name: Skills
     items:
-      - name: Markdown
-        description: ''
-        percent: 80
-        icon: markdown
       - name: Data & Statistics
         description: ''
-        percent: 100
+        #percent: 100
         icon: chart-bar
+      - name: Content Strategy
+        description: ''
+        #percent: 80
+        icon: hero/rectangle-group
+      - name: UX Thinking
+        description: ''
+        #percent: 90
+        icon: hero/users
       - name: Process Mapping
         description: ''
-        percent: 80
+        #percent: 80
         icon: hero/map
       - name: Public Speaking
         description: ''
-        percent: 100
+        #percent: 100
         icon: hero/megaphone
       - name: Video editing
         description: ''
-        percent: 40
+        #percent: 40
         icon: hero/film
+      - name: Markdown
+        description: ''
+        #percent: 80
+        icon: markdown
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
-        percent: 60
+        #percent: 60
         icon: person-simple-walk
       - name: Reading
         description: ''
-        percent: 100
+        #percent: 100
         icon: hero/book-open
+      - name: Handicrafts
+        description: ''
+        #percent: 60
+        icon: hero/hand-raised
       - name: Making Art
         description: ''
-        percent: 80
+        #percent: 80
         icon: "custom/palette-line"
 
 languages:
