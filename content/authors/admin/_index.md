@@ -46,8 +46,8 @@ interests:
 education:
   - area: MA Political Science
     institution: University of California, Irvine
-    #date_start: ''
-    #date_end: ''
+    #date_start: '2013-08-01'
+    #date_end: '2016-05-01'
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -55,14 +55,14 @@ education:
       url: 'https://example.com'
   - area: BA International Affairs
     institution: Florida State University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2010-08-01
+    date_end: 2013-05-01
     summary: |
      
   - area: BSc with honors Political Science
     institution: Florida State University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2010-08-01
+    date_end: 2013-05-01
     summary: |
       
 work:
@@ -84,7 +84,7 @@ work:
       - Reduced cancellations by 16% after designing, validating, and implementing customer-facing digital adoption microcontent to supplement existing UI. 
       - Furthered a “Top 5” company goal by conducting market research on API developer community portals to inform future product development.
   - position: Editor
-    company_name: Harvard (forthcoming); University of Michigan, Ann Arbor; University of California, Irvine
+    company_name: Harvard (in hiring process); University of Michigan, Ann Arbor; University of California, Irvine
     company_url: ''
     company_logo: ''
     date_start: 2018-08-01
