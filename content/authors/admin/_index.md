@@ -38,9 +38,9 @@ profiles:
 
 
 interests:
-  - Writing & Editing
-  - Research & Strategizing
-  - Teaching & Coaching
+   Writing & Editing
+   Research & Strategizing
+   Teaching & Coaching
 
 
 education:
