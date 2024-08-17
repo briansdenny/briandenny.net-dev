@@ -1,7 +1,7 @@
 ---
 title: 🧠 Data sharing with Technical Program Director
 summary: First meeting with the Technical Program Director to review data available via Whatfix.
-date: 2023-10-26
+date: 2024-08-16
 authors:
   - admin
 tags:
