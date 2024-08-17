@@ -123,10 +123,6 @@ skills:
         description: ''
         #percent: 40
         icon: hero/film
-      - name: Markdown
-        description: ''
-        #percent: 80
-        icon: markdown
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -147,6 +143,14 @@ skills:
         description: ''
         #percent: 80
         icon: "custom/palette-line"
+      - name: Remodeling
+        description: ''
+        #percent: 80
+        icon: hero/home
+      - name: Markdown
+        description: ''
+        #percent: 80
+        icon: markdown
 
 languages:
   - name: English ... I deleted this whole section, including the "languages" above but the header "Languages" stayed on the page after publishing. Find it and then remove that and this section.
