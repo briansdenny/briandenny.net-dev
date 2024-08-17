@@ -15,11 +15,11 @@ main:
     weight: 30
   - name: Papers & Presentations
     url: /#papers
-    weight: 11
+    weight: 40
   - name: Teaching
     url: teaching/
-    weight: 40
+    weight: 50
   - name: News
     url: /#news
-    weight: 13
+    weight: 60
 
