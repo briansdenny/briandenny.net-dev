@@ -8,7 +8,7 @@ main:
     url: experience/
     weight: 10
   - name: Portfolio
-    url: projects/
+    url: /#portfolio
     weight: 20
   - name: Papers & Presentations
     url: publication/

@@ -40,7 +40,7 @@ sections:
     design:
       columns: '1'
   - block: collection
-    id: project
+    id: portfolio
     content:
       title: Selected Projects
       filters:
