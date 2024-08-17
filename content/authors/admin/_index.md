@@ -111,7 +111,7 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
+  - name: Other Skills
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -127,6 +127,22 @@ skills:
         description: ''
         percent: 80
         icon: camera
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Handicrafts & Art
+        description: ''
+        percent: 80
+        icon: art
 
 languages:
   - name: English ... I deleted this whole section, including the "languages" above but the header "Languages" stayed on the page after publishing. Find it and then remove that and this section.
