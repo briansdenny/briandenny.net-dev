@@ -1,5 +1,5 @@
 ---
-title: 🎉 In-App upgrade process mentioned in Q2 earnings call 
+title: 🎉 In-app upgrade process mentioned in Q2 earnings call 
 summary: A project I am currently collaborating on with the VP of eCommerce was highlighted in Consensus Cloud Solutions' Q2 earnings call. 
 date: 2024-08-08
 
