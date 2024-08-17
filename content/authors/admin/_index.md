@@ -39,8 +39,9 @@ profiles:
 
 interests:
   - Writing & Editing
-  - Teaching & Coaching
   - Research & Strategizing
+  - Teaching & Coaching
+
 
 education:
   - area: MA Political Science
