@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Selected Projects
-      text: Here are a selection of projects I have recently worked on.
+      text: 
       filters:
         folders:
           - project
