@@ -1,7 +1,7 @@
 ---
-title: 📢 Presented results from Whatfix content A/B test
-summary: Shared logistic regression findings from A/B test I designed and analyzed. 
-date: 2024-07-24
+title: 🗽 Gave Keynote Address to Whatfix User Group
+summary: Add summary here. 
+date: 2023-09-22
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -13,7 +13,6 @@ authors:
 
 tags:
   - Consensus
-  - Statistics
   - Whatfix
 ---
 
