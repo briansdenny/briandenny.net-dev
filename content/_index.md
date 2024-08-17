@@ -45,8 +45,8 @@ sections:
       title: Portfolio
       filters:
         folders:
-          - projects
-        featured_only: true
+          - project
+        featured_only: false
     design:
       view: article-grid
       columns: 3
