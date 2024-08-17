@@ -42,7 +42,7 @@ sections:
   - block: collection
     id: portfolio
     content:
-      title: Selected Projects
+      title: Selected Portfolio Projects
       filters:
         folders:
           - project
