@@ -126,7 +126,7 @@ skills:
       - name: Handicrafts & Art
         description: ''
         percent: 80
-        icon: palette-line.svg
+        icon: palette-line
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
