@@ -1,6 +1,6 @@
 ---
 title: 🎉 In-app upgrade process mentioned in Q2 earnings call 
-summary: Current collaboration with VP of eCommerce highlighted in Consensus Cloud Solutions' Q2 earnings call. 
+summary: Collaboration with VP of eCommerce highlighted in Q2 earnings call. 
 date: 2024-08-08
 
 # Featured image
