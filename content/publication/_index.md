@@ -11,9 +11,9 @@ cascade:
 
 sections:
   - block: collection
-    id: teaching
+    id: publication
     content:
-      title: Teaching
+      title: Selected Papers & Publications
       filters:
         folders:
           - publication
