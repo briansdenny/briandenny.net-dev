@@ -35,7 +35,7 @@ sections:
       title: 'More About Me'
       subtitle: ''
       text: |-
-        I'm a writer and editor with an extensive background in research methodologies (quantitative and qualitative) and adult teaching and coaching. I get most excited when I'm making measurable impacts through words, research, or personal connections! I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. My extensive experience and formal training in research, education, and teaching has refined my ability to ask the right questions, systematically analyze problems, identify creative solutions, report on my findings, and teach others how to do the same.
+        I'm a writer and editor with an extensive background in research methodologies (quantitative and qualitative) and adult teaching and coaching. I get most excited when I'm making measurable impacts through words, research, or personal connections! I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. My extensive experience and formal training in research, education, and teaching has refined my ability to ask the right questions, effectivly analyze problems, identify creative solutions, report my findings, and teach others how to do the same.
         
     design:
       columns: '1'
