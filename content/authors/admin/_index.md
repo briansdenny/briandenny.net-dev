@@ -103,10 +103,24 @@ skills:
         description: ''
         percent: 80
         icon: markdown
-      - name: Data Science
+      - name: Data & Statistics
         description: ''
         percent: 100
         icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Other Skills
+    items:
+      - name: Process Mapping
+        description: ''
+        percent: 80
+        icon: hero/map
+      - name: Public Speaking
+        description: ''
+        percent: 100
+        icon: hero/megaphone
       - name: SQL
         description: ''
         percent: 40
