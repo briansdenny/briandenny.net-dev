@@ -10,7 +10,7 @@ authors:
 # Author notes (optional)
 author_notes:
 
-date: '2024-07-01T00:00:00Z'
+date: '2023-09-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -25,7 +25,7 @@ publishDate: '2017-01-01T00:00:00Z'
 #publication: In *Hugo Blox Builder Conference*
 #publication_short: In *ICW*
 
-abstract: Consensus Cloud Solutions, Inc has had learned many lessons as a result of its partnership with Whatfix. Those lessons include working backwards from primary goals, maximizing the available data, regularly validating content in production, establishing logical naming conventions, and keeping detailed records. There have also been many successes, including both quantitative and qualitative analyses that are unprecedented within the Product team and a modernizing shift within the Technical Documentation team away from single-source PDF user manuals and toward just-in-time, in-app guidance. 
+abstract: I served as the keynote speaker during Whatfix's inaugural in-person User Group meeting in New York City. Consensus Cloud Solutions, Inc has learned many lessons through its partnership with Whatfix. Those lessons include working backwards from primary goals, maximizing the available data, regularly validating content in production, establishing logical naming conventions, and keeping detailed records. There have also been many successes, including both quantitative and qualitative analyses that are unprecedented within the Product team and a modernizing shift within the Technical Documentation team away from single-source PDF user manuals and toward just-in-time, in-app guidance. 
 
 
 # Summary. An optional shortened abstract.
