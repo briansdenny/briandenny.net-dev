@@ -46,8 +46,8 @@ interests:
 education:
   - area: MA Political Science
     institution: University of California, Irvine
-    #date_start: '2013-08-01'
-    #date_end: '2016-05-01'
+    date_start: '2013-08-01'
+    date_end: '2016-05-01'
     summary: |
      
   - area: BA International Affairs
