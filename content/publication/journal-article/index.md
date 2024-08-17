@@ -27,7 +27,7 @@ abstract: Inspired by the famous Prisoner's Dilemma game theory model, Karin Mar
 summary: Solo-authored, peer-reviewed publication written in British English. 
 
 tags:
-- Source Themes
+- Academic
 featured: false
 
 # links:
