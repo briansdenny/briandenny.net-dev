@@ -45,7 +45,7 @@ sections:
       title: Portfolio
       filters:
         folders:
-          - project
+          - projects
         featured_only: false
     design:
       view: article-grid
