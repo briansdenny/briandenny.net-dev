@@ -126,7 +126,7 @@ skills:
       - name: Handicrafts & Art
         description: ''
         percent: 80
-        icon: camera
+        icon: hero/paint-brush
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
