@@ -107,10 +107,10 @@ skills:
         description: ''
         percent: 100
         icon: chart-bar
-      - name: SQL
+      - name: test
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: custom/palette-line
   - name: Other Skills
     items:
       - name: Process Mapping
