@@ -32,7 +32,7 @@ abstract: Consensus Cloud Solutions, Inc has had learned many lessons as a resul
 summary: Keynote speech to Whatfix User Group on the many successes resulting from Consensus Cloud Solutions, Inc's partnership with Whatfix, as well as the many lessons learned
 
 tags:
-  - Large Language Models
+  - Whatfix
 
 # Display this page in the Featured widget?
 featured: true
