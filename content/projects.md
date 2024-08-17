@@ -11,7 +11,7 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
+      title: Selected Portfolio Projects
       text: 
       filters:
         folders:
