@@ -1,8 +1,8 @@
 ---
-title: "An example journal article"
+title: "The Warden’s Dilemma as Nested Game: Political Self-Sacrifice, Instrumental Rationality,
+and Third Parties"
 authors:
 - admin
-- Robert Ford
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
@@ -21,10 +21,10 @@ publication_types: ["article-journal"]
 publication: "*Journal of Source Themes, 1*(1)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Inspired by the famous Prisoner's Dilemma game theory model, Karin Marie Fierke introduced the Warden's Dilemma to explain self-sacrifice and compromise in asymmetric interactions and to show that such an explanation requires a social ontology. She applied her model to Irish Republican Army hunger strikes in 1980–1981. Her model, however, closely resembles what game theorists call a ‘nested game’. This article (re)introduces the nested Warden's Dilemma, focuses on the tripartite relationship inherent to the model and examines hunger strikes as part of a strategy potentially informed by instrumental rationality and knowledge of the Warden's Dilemma dynamic. After briefly discussing the implications of approaching self-sacrificial behaviour from a rationalist perspective, a case study of strategic non-violence in Myanmar (Burma) demonstrates how third parties can both diffuse instrumental rationality regarding political self-sacrifice and facilitate patterns of resistance that appear to capitalize on the Warden's Dilemma dynamic.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Solo-authored, peer-reviewed publication written in British English. 
 
 tags:
 - Source Themes
@@ -33,14 +33,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+url_pdf: https://drive.google.com/drive/u/0/folders/1iTg0E4UfEzeC0wvuLExrAByMqZWY9V5h
+#url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+#url_dataset: ''
+#url_poster: ''
+#url_project: ''
+#url_slides: ''
+#url_source: ''
+#url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
