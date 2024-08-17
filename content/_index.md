@@ -43,7 +43,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Papers & Presentations
+      title: Portfolio
       filters:
         folders:
           - publication
