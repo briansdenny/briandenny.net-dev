@@ -169,4 +169,5 @@ awards:
 
 ## About Me
 
-Hello! I'm a writer and editor with an extensive background in research methodologies (quantitative and qualitative) and adult teaching/coaching. I get most excited when I'm making measurable impacts through my research, my writing, or my personal connections! I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. My extensive experience and formal training in research, education, and teaching has refined my ability to ask the right questions, systematically analyze problems, identify creative solutions, report on my findings, and teach others how to do the same.
+Hello! My background in writing, editing, research, and teaching has opened many interesting doors for me, and I'm excited to continue writing my story as I apply my diverse skillset toward worthy endeavors. 
+
