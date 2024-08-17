@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: pattern-randomized.svg
+          filename: pattern-randomized2.svg
           filters:
             brightness: 1.0
           size: cover
