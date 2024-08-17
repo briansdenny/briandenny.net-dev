@@ -110,7 +110,7 @@ skills:
       - name: test
         description: ''
         percent: 40
-        icon: custom/palette-line
+        icon: "custom/palette-line"
   - name: Other Skills
     items:
       - name: Process Mapping
