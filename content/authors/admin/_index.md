@@ -121,10 +121,10 @@ skills:
         description: ''
         percent: 100
         icon: hero/megaphone
-      - name: SQL
+      - name: Video editing
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: hero/film
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
