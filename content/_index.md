@@ -51,6 +51,17 @@ sections:
     design:
       view: article-grid
       columns: 2
+  - block: collection
+    id: papers
+    content:
+      title: Papers & Presentations
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
  
   - block: collection
     id: news
