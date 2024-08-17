@@ -1,6 +1,6 @@
 ---
 title: 🧠 Data sharing with Technical Program Director
-summary: Began collaboration with the Technical Program Director to review data available via Whatfix.
+summary: Began collaboration with Technical Program Director data on Whatfix data sharing.
 date: 2024-08-16
 authors:
   - admin
