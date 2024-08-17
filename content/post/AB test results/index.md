@@ -1,5 +1,5 @@
 ---
-title: 🎉 Presented results from Whatfix content A/B test
+title: 👉 Presented results from Whatfix content A/B test
 summary: Shared logistic regression findings from A/B test I designed and analyzed. 
 date: 2024-07-24
 
