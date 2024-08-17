@@ -169,5 +169,7 @@ awards:
 
 ## About Me
 
-Hello! My background in writing, editing, research, and teaching has opened many interesting doors for me, and I'm excited to continue writing my story as I apply my diverse skillset toward worthy endeavors. 
+Hello! My background in writing, editing, research, and teaching has opened many interesting doors for me, and I'm excited to continue writing my story as I apply my diverse skillset toward worthy endeavors. Poke around my site to learn more, and reach out via email or LinkedIn if you'd like to connect. 😃
+
+
 
