@@ -25,10 +25,11 @@ publishDate: '2017-01-01T00:00:00Z'
 #publication: In *Hugo Blox Builder Conference*
 #publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Consensus Cloud Solutions, Inc has had learned many lessons as a result of its partnership with Whatfix. Those lessons include working backwards from primary goals, maximizing the available data, regularly validating content in production, establishing logical naming conventions, and keeping detailed records. There have also been many successes, including both quantitative and qualitative analyses that are unprecedented within the Product team and a modernizing shift within the Technical Documentation team away from single-source PDF user manuals and toward just-in-time, in-app guidance. 
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Keynote speech to Whatfix User Group on the many successes resulting from Consensus Cloud Solutions, Inc's partnership with Whatfix, as well as the many lessons learned
 
 tags:
   - Large Language Models
