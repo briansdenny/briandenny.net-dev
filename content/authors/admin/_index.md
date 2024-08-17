@@ -99,10 +99,10 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Markdown
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: markdown
       - name: Data Science
         description: ''
         percent: 100
@@ -135,14 +135,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Reading
         description: ''
         percent: 100
-        icon: cat
-      - name: Handicrafts & Art
+        icon: hero/book-open
+      - name: Making Art
         description: ''
         percent: 80
-        icon: camera
+        icon: hero/paint-brush
 
 languages:
   - name: English ... I deleted this whole section, including the "languages" above but the header "Languages" stayed on the page after publishing. Find it and then remove that and this section.
