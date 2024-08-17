@@ -91,6 +91,15 @@ work:
       - Conducting all manner of editing (developmental, line, copy) for artificial intelligence researcher’s dissertation chapters, presentations, academic articles, job market material, and grant proposals (one awarded $2.5 million). 
       - Collaborated with graduate/doctoral students across a range of disciplines at Univ. of CA-Irvine Graduate Resource Center to refine national grant applications (one awarded $138,000), dissertations, publications, cover letters, and CVs. 
       - Led Dissertations Boot Camp for advanced doctoral students.
+  - position: Adjunct Professor
+    company_name: Cal Poly Pomona & Chapman University
+    company_url: ''
+    company_logo: ''
+    date_start: 2018-08-01
+    date_end: '2019-05-01'
+    summary: |
+
+      - Designed and taught *East Asian Government*, *American Government*, and *Comparative Politics*.
   - position: Leadership Coach
     company_name: University of California, Irvine
     company_url: ''
@@ -102,15 +111,7 @@ work:
       - Individually mentored 20+ first-gen, low-income, underrepresented students using motivational interviewing to assess and encourage goal development/attainment as part of federally-funded DECADE PLUS program. 
       - Facilitated weekly group meetings and led program group meetings as needed.
       - Interviewed prospective Leadership Coaches alongside Program Director.
-  - position: Adjunct Professor
-    company_name: Cal Poly Pomona & Chapman University
-    company_url: ''
-    company_logo: ''
-    date_start: 2018-08-01
-    date_end: '2019-05-01'
-    summary: |
-
-      - Designed and taught *East Asian Government*, *American Government*, and *Comparative Politics*.
+  
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
