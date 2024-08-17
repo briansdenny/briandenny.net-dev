@@ -142,7 +142,7 @@ skills:
       - name: Handicrafts & Art
         description: ''
         percent: 80
-        icon: art
+        icon: camera
 
 languages:
   - name: English ... I deleted this whole section, including the "languages" above but the header "Languages" stayed on the page after publishing. Find it and then remove that and this section.
