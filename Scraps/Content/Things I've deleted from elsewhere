@@ -35,3 +35,8 @@ design:
       exclude_featured: false
   design:
     view: citation
+
+    # removed topnav links
+     - name: Talks
+    url: /#talks
+    weight: 12

@@ -7,19 +7,16 @@ main:
   - name: About Me
     url: /
     weight: 10
-  - name: Papers
+  - name: Papers & Presentations
     url: /#papers
     weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
   - name: News
     url: /#news
     weight: 13
   - name: Experience
     url: experience/
     weight: 20
-  - name: Projects
+  - name: Portfolio
     url: projects/
     weight: 30
   - name: Teaching
