@@ -45,9 +45,9 @@ sections:
       subtitle: ''
       text: |-
         > Brian is awesome. -Manager
-        {{< spoiler text="Click to see what my manager at Consensus is saying" >}}
-        Brian is awesome
-        {{< /spoiler >}}
+      {{< spoiler text="Click to see what my manager at Consensus is saying" >}}
+      Brian is awesome
+      {{< /spoiler >}}
 
     design:
       columns: '1'
