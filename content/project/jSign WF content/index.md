@@ -40,6 +40,7 @@ I first created a list of article topics based on jSign's most basic, and likely
 
 
 ![screen reader text](jsignarticle1.png)
+Compare the above article to the (original article)[https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm]
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
