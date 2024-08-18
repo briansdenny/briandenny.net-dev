@@ -4,6 +4,7 @@ date: 2024-03-08
 toc: false
 tags:
   - Consensus
+  - UX
   - Whatfix
   - Writing
 summary: A collection of bite-sized, in-app help content that replaced FAQ pages and topic-based help pages spread across the flagship brand's web app and multiple WordPress pages

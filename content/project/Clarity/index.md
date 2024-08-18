@@ -4,6 +4,7 @@ date: 2024-04-24
 toc: false
 tags:
   - Consensus
+  - Marketing
   - Writing
 summary: A simplified and snappy version of existing marketing content intended to quickly entice prospective customers 
 ---

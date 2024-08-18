@@ -28,6 +28,9 @@ summary: Solo-authored, peer-reviewed academic journal publication written in Br
 
 tags:
 - Academic
+- Research
+- Strategy
+- Writing 
 featured: false
 
 # links:
