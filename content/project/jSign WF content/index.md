@@ -38,9 +38,13 @@ I first created a list of article topics based on jSign's most basic, and likely
   - Whatfix articles doesn't support clickable links to other articles or Whatfix content.
   - Information needed to contextualize or complete a process/topic should be included in that article whenever possible. 
 
+#### Representative Content
+{style="color: red"}
 
+**Article within Whatfix widget** and its [original article](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm)
 ![screen reader text](jsignarticle1.png)
-Compare the above article to the [original article](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm)
+
+
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
