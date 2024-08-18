@@ -4,7 +4,7 @@ date: 2024-03-08
 toc: false
 tags:
 
-summary: A collection of bite-sized, in-app help content that replaced FAQs and topic-based help pages spread across the flagship brand's web app and multiple WordPress pages
+summary: Bite-sized, in-app content replacing FAQs and topic-based help across eFax app and multiple WordPress pages
 ---
 
 ## Problem
