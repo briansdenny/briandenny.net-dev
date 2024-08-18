@@ -3,7 +3,7 @@ title: Identifying jQuery Selectors for Use in Microcontent Display Rules
 date: 2024-01-01
 tags:
   
-summary: Internal teaching document with step-by-step instructions for identifying jQuery selectors and applying them to Whatfix display rules
+summary: Internal teaching document with instructions for identifying jQuery selectors and applying them to Whatfix display rules
 ---
 
 ## Problem
