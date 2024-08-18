@@ -16,7 +16,7 @@ After reviewing the existing marketing material, I devised a list of questions t
 {style="color: red"}
 
 ## _Clarity helps me get back to helping patients_
-#### Skip data entry and let Clarity automatically convert your documents into patient records
+**Skip data entry and let Clarity automatically convert your documents into patient records**
 
 ### Less paperwork, more healthcare
 Clarity reads your incoming faxes, identifies information that belongs in your patient records, and pre-populates the relevant EHR fields. It even works on hand-written forms and multi-patient documents. 
