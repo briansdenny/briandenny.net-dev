@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo: 
       text: "Brian S Denny"
+      filename: "icon.png"
 
 # Site footer
 footer:
