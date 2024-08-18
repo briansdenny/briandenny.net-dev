@@ -60,15 +60,19 @@ sections:
         - Begin helping internal CCSI teams understand how we can use WF to meet their messaging and customer communication needs based on rate plans.
 
         <br/>
+
         Brian continues to be a truly valuable asset to my team, to Product, and to CCSI overall. He is a self- starter, who pushes the Whatfix agenda diligently and with the needed insight to make it productive for all of the products that have integrated WF into their UI/UX.
 
         <br/>
+        
         Brian maintains an even level of professionalism with whomever he deals with, whether that be CCSI personnel, WF employees, or our CCSI customers. He is open, direct, and comfortable with sudden change (a CCSI fact of life). He thrives in our small team environment, but is not afraid to reach out to CCSI resources he is not familiar with in order to get work done (and to customers as well, when and if needed).
 
         <br/>
+
         Brian is very results oriented, and is very transparent about any perceived difficulties that may be encountered in a particular project. He is also very astute about best practices and implementing procedures. I like working with Brian; he is easy going and easy to get along with.
 
         <br/>
+        
         (This final comment is for HR, [redacted], [redacted], and anyone else "calibrating" my comments regarding Brian. Honestly, he deserves the highest rating and a serious raise. It is difficult for me to give him the Sometimes Meets Expectations rating. I know these reviews need to be conducted in a certain way, but come on. Brian is a valuable asset. It is time CCSI recognized that openly and honestly with regards to Brian's compensation package. Just my two cents as his manager.)
         {{< /spoiler >}}
 
