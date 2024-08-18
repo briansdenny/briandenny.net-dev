@@ -24,7 +24,7 @@ Clarity reads your incoming faxes, identifies information that belongs in your p
 - *Reduce burnout* from unnecessary tasks. Clarity deciphers complex and hard-to-read documents quickly, so you have more time to spend with patients
 - *Improve patient satisfaction* by doing more of what you do best. Clarity ensures your records are complete and accurate, allowing you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
 ### Learn more about Clarity
-Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. Find out how Clarity is a clear match for your practice, and start automating your patient records today.
+Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match](https://www.consensus.com/request-a-demo/) for your practice, and start automating your patient records today.
 
 
 ## Version 2
