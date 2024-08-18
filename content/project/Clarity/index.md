@@ -12,10 +12,12 @@ Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sale
 ## Solution
 After reviewing the existing marketing material, I devised a list of questions to ensure I sufficiently understood the product. After gathering responses to those questions from SMEs in the Product department, I began writing. My goal was to create concise and catchy pieces that emphasized the brand name and functionality.
 
+
 #### Version 1
 {style="color: red"}
 
-## _Clarity helps me_ 
+
+# _Clarity helps me_ 
 ## _get back to helping patients_
 **Skip data entry and let Clarity automatically convert your documents into patient records**
 
