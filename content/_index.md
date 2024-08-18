@@ -71,22 +71,16 @@ sections:
 
         Brian is very results oriented, and is very transparent about any perceived difficulties that may be encountered in a particular project. He is also very astute about best practices and implementing procedures. I like working with Brian; he is easy going and easy to get along with.
 
-        <br/>
-
-        (This final comment is for HR, [redacted], [redacted], and anyone else "calibrating" my comments regarding Brian. Honestly, he deserves the highest rating and a serious raise. It is difficult for me to give him the Sometimes Meets Expectations rating. I know these reviews need to be conducted in a certain way, but come on. Brian is a valuable asset. It is time CCSI recognized that openly and honestly with regards to Brian's compensation package. Just my two cents as his manager.)
         {{< /spoiler >}}
 
         {{< spoiler text="Click for excerpts from 2023 review" >}}
-        'Exceeding Expectations'
+        'Exceeding Expectations' (We were quite busy at this time, so my 2023 review includes no free response feedback. But every response was the highest, 'Exceeding Expectations')
         {{< /spoiler >}}
 
         {{< spoiler text="Click for excerpts from 2022 review" >}}
         Before Brian joined CCSI, we were not a team that had much use for
         user data, and in fact had no good way of obtaining it to even analyze. Brian has shown us the inner workings and benefits of using a tool like Whatfix, and has made our approach to providing jSign help truly data driven. We now know how our jSign customers are interacting with the app, and with the help, and we can target specific assistance to specific pain points, resulting in a better user experience. This is all very exciting and new for us. Brian has opened a whole new world for the team and we are finding new ways to contribute to the overall success of jSign, product, and CCSI. 
 
-        <br/>
-
-        It has only been six months, and his project queue has not been exceptionally varied in terms of the types of projects we given him, but Brian truly has exceeded our overall expectations in his primary work task, the integration of Whatfix into the jSign documentation workflow. He is a valuable addition to our team.
         {{< /spoiler >}}
 
     design:
