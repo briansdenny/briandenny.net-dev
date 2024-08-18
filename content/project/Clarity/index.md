@@ -8,7 +8,7 @@ tags:
 ---
 
 ## Problem
-Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](/static/ClaritySalesSheet.pdf) and [data sheet](/static/ClarityDataSheet.pdf). I was asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
+Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](/uploads/ClaritySalesSheet.pdf) and [data sheet](/static/uploads/ClarityDataSheet.pdf). I was asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
 
 ## Solution
 After reviewing the existing marketing material, I devised a list of questions to ensure I sufficiently understood the product. After gathering responses to those questions from SMEs in the Product department, I began writing. My goal was to create concise and catchy pieces that emphasized the brand name and functionality.
