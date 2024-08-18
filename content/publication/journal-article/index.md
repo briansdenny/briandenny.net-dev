@@ -33,7 +33,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://drive.google.com/drive/u/0/folders/1iTg0E4UfEzeC0wvuLExrAByMqZWY9V5h
+#url_pdf: https://drive.google.com/drive/u/0/folders/1iTg0E4UfEzeC0wvuLExrAByMqZWY9V5h
 #url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 #url_dataset: ''
 #url_poster: ''
