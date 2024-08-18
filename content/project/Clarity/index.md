@@ -15,7 +15,7 @@ After reviewing the existing marketing material, I devised a list of questions t
 
 #### Version 1
 {style="color: red"}
-
+<br/>
 
 # _Clarity helps me_ 
 ## _get back to helping patients_
