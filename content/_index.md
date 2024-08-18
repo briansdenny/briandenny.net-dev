@@ -97,7 +97,8 @@ sections:
       view: article-grid
       columns: 3
  
-  - block: collection
+  # unhash this when I'm ready to bring the news back
+  # - block: collection
     id: news
     content:
       title: Recent News
