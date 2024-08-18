@@ -40,7 +40,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me, Brian S Denny. This work is licensed under {license}'. Background by [SVGBackgrounds.com](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)
+    notice: '© {year} Me, Brian S Denny. This work is licensed under {license}. Background by [SVGBackgrounds.com](https://www.svgbackgrounds.com/set/free-svg-backgrounds-and-patterns/)'
     license:
       enable: true
       allow_derivatives: false
