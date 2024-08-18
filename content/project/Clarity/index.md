@@ -19,10 +19,10 @@ After reviewing the existing marketing material, I devised a list of questions t
 ### Less paperwork, more healthcare
 Clarity reads your incoming faxes, identifies information that belongs in your patient records, and pre-populates the relevant EHR fields. It even works on hand-written forms and multi-patient documents. 
 ### The choice is clear
-Eliminate data entry with artificial intelligence. Clarity takes patient information from documents you receive and puts it where it belongs in your EHR system. 
-Increase efficiency through machine learning. Clarity learns your specific processes and gets better over time, but you always remain in control. 
-Reduce burnout from unnecessary tasks. Clarity deciphers complex and hard-to-read documents quickly, so you have more time to spend with patients
-Improve patient satisfaction by doing more of what you do best. Clarity ensures your records are complete and accurate, allowing you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
+- *Eliminate data entry* with artificial intelligence. Clarity takes patient information from documents you receive and puts it where it belongs in your EHR system. 
+- *Increase efficiency* through machine learning. Clarity learns your specific processes and gets better over time, but you always remain in control. 
+- *Reduce burnout* from unnecessary tasks. Clarity deciphers complex and hard-to-read documents quickly, so you have more time to spend with patients
+- *Improve patient satisfaction* by doing more of what you do best. Clarity ensures your records are complete and accurate, allowing you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
 ### Learn more about Clarity
 Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. Find out how Clarity is a clear match for your practice, and start automating your patient records today.
 
