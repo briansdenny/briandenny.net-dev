@@ -1,5 +1,5 @@
 ---
-title: Microcontent for Redesigned Consumer Web App
+title: Converting Traditional User Manual into Microcontent
 date: 2024-03-08
 toc: false
 tags:

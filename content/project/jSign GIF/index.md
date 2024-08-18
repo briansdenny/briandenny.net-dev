@@ -1,5 +1,5 @@
 ---
-title: GIF Instructions for Unintuitive Web App UI
+title: Guiding Users Through Unintuitive jSign UI
 date: 2023-06-22
 featured: false
 toc: false
@@ -8,7 +8,7 @@ tags:
   - UX
   - Whatfix
   - Writing
-summary: A visual demonstration of vital web app functionality presented only to impacted users via plugin popup
+summary: A visual demonstration of vital (yet unintuitive) web app functionality
  
 
 ---
