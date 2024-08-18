@@ -44,8 +44,10 @@ I first created a list of article topics based on jSign's most basic, and likely
 **Article within Whatfix widget** and its [original article](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm)
 ![screen reader text](jsignarticle1.png)
 
+**Article within Whatfix widget** and its [original article](https://docs.jsign.com/help/webapp/themanagepg/indctwhowhr2sgn.htm)
+![screen reader text](jsignarticle2.png)
 
-![screen reader text](filename.png)
+
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
