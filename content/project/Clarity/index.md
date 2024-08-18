@@ -1,6 +1,7 @@
 ---
 title: Marketing Material for Potential Email Campaign
 date: 2024-04-24
+toc: false
 tags:
   - Consensus
   - Writing
