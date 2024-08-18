@@ -1,7 +1,6 @@
 ---
 title: Guiding Users Through Unintuitive jSign UI
 date: 2023-06-22
-featured: false
 toc: false
 tags:
   - Consensus
