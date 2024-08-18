@@ -39,6 +39,15 @@ sections:
         
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: 'What Others Are Saying'
+      subtitle: ''
+      text: |-
+        > Brian is awesome. -Manager
+        
+    design:
+      columns: '1'
   - block: collection
     id: portfolio
     content:
