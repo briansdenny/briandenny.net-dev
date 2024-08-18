@@ -15,6 +15,6 @@ A visual demonstration of vital web-app functionality presented only to impacted
 
 {{</* video src="jSignGIF.gif" controls="no" */>}}
 {{< icon name="jSignGIF.gif" >}} Python
-{{< icon name="custom/jSignGIF" >}}
+{{< icon name="custom/jSignGIF.gif" >}}
 
 <!--more-->
