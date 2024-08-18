@@ -50,8 +50,18 @@ sections:
         Coworker
         > Brian is awesome.
 
-        {{< spoiler text="Click for 2024 mid-year review excerpts" >}}
+        {{< spoiler text="Click for excerpts from 2024 review" >}}
         Brian is awesome
+        {{< /spoiler >}}
+
+        {{< spoiler text="Click for excerpts from 2023 review" >}}
+        Brian is awesome
+        {{< /spoiler >}}
+
+        {{< spoiler text="Click for excerpts from 2022 review" >}}
+        Before Brian joined CCSI, we were not a team that had much use for
+        user data, and in fact had no good way of obtaining it to even analyze. Brian has shown us the inner workings and benefits of using a tool like Whatfix, and has made our approach to providing jSign help truly data driven. We now know how our jSign customers are interacting with the app, and with the help, and we can target specific assistance to specific pain points, resulting in a better user experience. This is all very exciting and new for us. Brian has opened a whole new world for the team and we are finding new ways to contribute to the overall success of jSign, product, and CCSI. ....
+        It has only been six months, and his project queue has not been exceptionally varied in terms of the types of projects we given him, but Brian truly has exceeded our overall expectations in his primary work task, the integration of Whatfix into the jSign documentation workflow. He is a valuable addition to our team.
         {{< /spoiler >}}
 
     design:
