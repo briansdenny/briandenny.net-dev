@@ -1,12 +1,13 @@
 ---
-title: Marketing Material for Potential Email Campaign
+title: Marketing Content for Potential Email Campaign
 date: 2024-04-24
 toc: false
 tags:
+  - Concision
   - Consensus
   - Marketing
   - Writing
-summary: A simplified and snappy version of existing marketing content intended to quickly entice prospective customers 
+summary: Snappy and relatable email verbiage to quickly entice prospective Clarity customers 
 ---
 
 
