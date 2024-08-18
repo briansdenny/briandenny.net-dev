@@ -24,13 +24,6 @@ Right-click on your element and select Inspect. The code inspector box will appe
 Examine the highlighted line of code in the code inspector.
 The line of code begins with < which is followed by the element’s tag in purple font.
 The element’s attributes appear in red font.
-
-```python
-# Example of code highlighting
-input_string_var = input("Enter some data: ")
-print("You entered: {}".format(input_string_var))
-```
-
 The content of each attribute appears in blue within quotation marks.
 Any non-image text or numeric value that displays on the web page appears in black.
 Construct a jQuery referencing one or more of the element’s features listed above.
@@ -41,6 +34,13 @@ Clear the console with Ctrl+L or by clicking the  button in the top left.
 Type in the following function:
 jQuery('[]')
 Paste your copied attribute="content" combination inside the two brackets.
+
+
+```python
+# Example of code highlighting
+jQuery('[attribute="content"]')
+```
+
 jQuery('[attribute="content"]')
 Hit Enter.
 Determine whether the jQuery selector you selected is unique.
