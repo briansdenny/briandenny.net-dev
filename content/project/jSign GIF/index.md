@@ -1,6 +1,6 @@
 ---
 title: GIF Instructions for Unintuitive User Interface
-date: 2023-10-26
+date: 2023-06-22
 featured: false
 toc: false
 tags:
