@@ -38,6 +38,7 @@ I first created a list of content pieces based on the program manager’s requir
   - Whatfix articles doesn't support clickable links to other articles or Whatfix content.
   - Information needed to contextualize or complete a process/topic should be included in that article whenever possible. 
 
+
 ![screen reader text](MCFlow.png)
 ![screen reader text](oldsite.png)
 ![screen reader text](oldsite2.png)
