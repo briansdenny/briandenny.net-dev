@@ -32,20 +32,25 @@ Clarity reads your incoming faxes, identifies information that belongs in your p
 ### Learn more about Clarity
 Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match](https://www.consensus.com/request-a-demo/) for your practice, and start automating your patient records today.
 
+<br/>
 
-## Version 2
-Clarity takes care of data entry, so you can take care of people.
-Let Clarity convert your incoming faxes into EHR patient records, automatically and securely.
+#### Version 2
+{style="color: red"}
 
-Less paperwork, more healthcare
+<br/>
+
+# _Clarity takes care of data entry, so you can take care of people_
+**Let Clarity convert your incoming faxes into EHR patient records, automatically and securely**
+
+### Less paperwork, more healthcare
 Clarity connects to your eFax account, identifies information in your incoming faxes that belongs in patient records, and pre-populates the relevant fields in your EHR system. And with a HIPPA-compliant and HITRUST-certified eFax account, you can rest assured that Clarity’s cutting-edge solutions meet the strongest cybersecurity demands of our digital world. 
-The choice is clear
-Eliminate data entry - Clarity uses artificial intelligence to automatically take faxes you receive and convert them into EHR patient records. 
-Increase efficiency - Clarity uses machine learning to embrace your specific processes and maximize accuracy. But you are always in control.
-Reduce burnout - Clarity uses natural language processing to quickly decipher complex and hard-to-read documents. It even works on hand-written forms and multi-patient documents. 
-Improve patient satisfaction - Using Clarity to process your incoming faxes allows you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
-Learn more about Clarity
-Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. Find out how Clarity is a clear match for your practice, and start automating your patient records today.
+### The choice is clear
+- **Eliminate data entry** - Clarity uses artificial intelligence to automatically take faxes you receive and convert them into EHR patient records. 
+- **Increase efficiency** - Clarity uses machine learning to embrace your specific processes and maximize accuracy. But you are always in control.
+- **Reduce burnout** - Clarity uses natural language processing to quickly decipher complex and hard-to-read documents. It even works on hand-written forms and multi-patient documents. 
+- **Improve patient satisfaction** - Using Clarity to process your incoming faxes allows you to provide patients with better care, shorter wait times, and quicker referrals. And this leads to faster recovery and optimal outcomes.
+### Learn more about Clarity
+Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match](https://www.consensus.com/request-a-demo/) for your practice, and start automating your patient records today.
 
 
 
