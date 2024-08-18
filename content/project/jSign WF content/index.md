@@ -4,7 +4,7 @@ date: 2024-03-08
 toc: false
 tags:
  
-summary: A collection of bite-sized, in-app help content that replaced FAQ pages and topic-based help pages spread across the flagship brand's web app and multiple WordPress pages
+summary: Pared down help content as technical writing team transitions toward more modernthat replaced FAQ pages and topic-based help pages spread across the flagship brand's web app and multiple WordPress pages
 ---
 
 ## Problem

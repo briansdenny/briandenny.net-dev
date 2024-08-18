@@ -4,7 +4,7 @@ date: 2023-06-22
 toc: false
 tags:
  
-summary: A visual demonstration of vital (yet unintuitive) web app functionality
+summary: Visual demonstration of vital (yet unintuitive) web app functionality
  
 
 ---
