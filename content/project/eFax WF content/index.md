@@ -16,9 +16,12 @@ Consensus Cloud Solutions was preparing to release a newly overhauled web applic
 I first created a list of content pieces based on the program manager’s requirements and each piece’s intended location within the application. I then divided the writing tasks among my team of traditional technical writers and provided a list of basic writing guidelines to help ensure the content was appropriate for the new Whatfix format. After the initial content was written, the Technical Writing team engaged in a peer review process and then sent the content to the Product Manager for final review. I created the content segmentation and display rules that would ensure the popups, guided walk-throughs, and static help content would display when and as intended. I also planned and created dozens of reports and reporting spreadsheets to maximize the data at our disposal. Finally, the content was implemented in the production environment and made live for all end users. 
 
 ![screen reader text](MCFlow.png)
-![screen reader text](MCFlow2.png)
 ![screen reader text](oldsite.png)
+![screen reader text](oldsite2.png)
 ![screen reader text](CAF.png)
+![screen reader text](forward.png)
+![screen reader text](attachments.png)
+![screen reader text](addrecipient.png)
 
 ## Results
 Since the release of the new application, the new content has been viewed by hundreds of thousands of users and both the Product team and the Technical Writing team have gained a variety of valuable insights. SUCH AS……
