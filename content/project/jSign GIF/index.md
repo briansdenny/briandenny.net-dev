@@ -1,6 +1,7 @@
 ---
 title: GIF Instructions for Unintuitive User Interface
 date: 2023-10-26
+featured: false
 tags:
   - Consensus
   - Whatfix
