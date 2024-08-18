@@ -7,6 +7,10 @@ tags:
   - Writing
 ---
 
+## Problem
+
+## Solution
+
 A visual demonstration of vital web-app functionality presented only to impacted users via [plugin popup](https://drive.google.com/file/d/1M6-qfvQiQeJNT44Zo1Nrqeso4fRUjaZT/view?usp=sharing)
 
 <!--more-->

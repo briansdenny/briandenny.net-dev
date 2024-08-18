@@ -7,6 +7,10 @@ tags:
   - Writing
 ---
 
+## Problem
+
+## Solution
+
 This is the description.
 
 <!--more-->
