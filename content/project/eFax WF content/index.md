@@ -1,12 +1,12 @@
 ---
-title: Microcontent for Redesigned App
+title: Microcontent for Redesigned Consumer Web App
 date: 2024-03-08
 toc: false
 tags:
   - Consensus
   - Whatfix
   - Writing
-summary: A collection of bite-sized, in-app help content that replaced FAQ pages and topic-based help pages spread across the web app and multiple WordPress pages
+summary: A collection of bite-sized, in-app help content that replaced FAQ pages and topic-based help pages spread across the flagship brand's web app and multiple WordPress pages
 ---
 
 A collection of [bite-sized, in-app help content](https://github.com/scikit-learn/scikit-learn) that replaced FAQ pages and topic-based help pages spread across the web app and multiple WordPress pages. DON'T FORGET TO CHANGE THE LINK SO IT LINKS TO DRIVE

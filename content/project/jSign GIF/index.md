@@ -1,5 +1,5 @@
 ---
-title: GIF Instructions for Unintuitive User Interface
+title: GIF Instructions for Unintuitive Web App UI
 date: 2023-06-22
 featured: false
 toc: false
@@ -7,7 +7,7 @@ tags:
   - Consensus
   - Whatfix
   - Writing
-summary: A visual demonstration of vital web-app functionality presented only to impacted users via plugin popup
+summary: A visual demonstration of vital web app functionality presented only to impacted users via plugin popup
  
 
 ---
