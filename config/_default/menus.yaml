@@ -16,7 +16,7 @@ main:
   # - name: Teaching
     # url: teaching/
     # weight: 40
-  - name: News
-    url: /#news
-    weight: 60
+  # - name: News
+    # ur - l: /#news
+    # weight: 60
 

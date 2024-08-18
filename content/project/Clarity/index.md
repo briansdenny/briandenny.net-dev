@@ -3,9 +3,7 @@ title: Distilling Existing Content into Potential Email Campaign
 date: 2024-04-24
 toc: false
 tags:
-  - Marketing
-  - Consensus
-  - Writing
+
 summary: Snappy and relatable email verbiage to quickly entice prospective Clarity customers 
 ---
 

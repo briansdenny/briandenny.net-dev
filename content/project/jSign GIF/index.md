@@ -3,10 +3,7 @@ title: Guiding Users Through Unintuitive jSign UI
 date: 2023-06-22
 toc: false
 tags:
-  - Consensus
-  - UX
-  - Whatfix
-  - Writing
+ 
 summary: A visual demonstration of vital (yet unintuitive) web app functionality
  
 
