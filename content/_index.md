@@ -46,9 +46,10 @@ sections:
       text: |-
         Manager
         > Brian is awesome.
-        Coworker
-        > Brian is awesome
         
+        Coworker
+        > Brian is awesome.
+
         {{< spoiler text="Click to see what my manager at Consensus is saying" >}}
         Brian is awesome
         {{< /spoiler >}}
