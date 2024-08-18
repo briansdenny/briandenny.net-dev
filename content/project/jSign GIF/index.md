@@ -13,9 +13,6 @@ tags:
 
 A visual demonstration of vital web-app functionality presented only to impacted users via [plugin popup](https://drive.google.com/file/d/1M6-qfvQiQeJNT44Zo1Nrqeso4fRUjaZT/view?usp=sharing)
 
-{{</* video src="jSignGIF.gif" controls="no" */>}}
-{{< icon name="jSignGIF.gif" >}} Python
-{{< icon name="custom/jSignGIF.gif" >}}
 ![screen reader text](jSignGIF.gif "caption")
 
 <!--more-->
