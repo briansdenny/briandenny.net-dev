@@ -14,5 +14,11 @@ As Senior Technical Writer and Whatfix Lead at Consensus Cloud Solutions, part o
 ## Solution
 I compiled the following step-by-step instructions in a PDF as an easy reference sheet my team could use to begin exploring the process of identifying jQuery selectors.
 
+<br/>
 
+## Use Cases
+
+### Use Cases
+
+#### Use Cases
 <!--more-->
