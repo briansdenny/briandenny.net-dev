@@ -15,7 +15,8 @@ After reviewing the existing marketing material, I devised a list of questions t
 #### Version 1
 {style="color: red"}
 
-## _Clarity helps me get back to helping patients_
+## _Clarity helps me_ 
+## _get back to helping patients_
 **Skip data entry and let Clarity automatically convert your documents into patient records**
 
 ### Less paperwork, more healthcare
