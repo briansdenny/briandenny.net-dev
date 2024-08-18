@@ -1,4 +1,4 @@
 ---
-title: All my news
+title: Selected Portfolio Projects
 view: article-grid
 ---
