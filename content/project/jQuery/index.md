@@ -23,7 +23,7 @@ To activate a Smart Tip when a user skips a form field, recreate that by skippin
 Right-click on your element and select Inspect. The code inspector box will appear.
 Examine the highlighted line of code in the code inspector.
 The line of code begins with < which is followed by the element’s tag in purple font.
-The element’s attributes appear in red font.
+The element’s attributes {style="color: red"} appear in red font.
 The content of each attribute appears in blue within quotation marks.
 Any non-image text or numeric value that displays on the web page appears in black.
 Construct a jQuery referencing one or more of the element’s features listed above.
