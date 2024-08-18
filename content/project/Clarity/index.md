@@ -5,7 +5,7 @@ toc: false
 tags:
   - Consensus
   - Writing
-summary: Testing this summary. Want it to appear on preview page. 
+summary: A simplified and snappy version of existing marketing content intended to quickly entice prospective customers 
 ---
 
 
