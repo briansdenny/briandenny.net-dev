@@ -1,6 +1,7 @@
 ---
 title: Microcontent for Redesigned App
 date: 2023-10-26
+toc: false
 tags:
   - Consensus
   - Whatfix
