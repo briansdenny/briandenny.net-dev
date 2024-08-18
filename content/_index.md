@@ -50,7 +50,7 @@ sections:
         Coworker
         > Brian is awesome.
 
-        {{< spoiler text="Click to see what my manager at Consensus is saying" >}}
+        {{< spoiler text="Click for 2024 mid-year review excerpts" >}}
         Brian is awesome
         {{< /spoiler >}}
 
