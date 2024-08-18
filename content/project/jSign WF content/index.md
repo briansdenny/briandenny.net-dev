@@ -39,7 +39,7 @@ I first created a list of article topics based on jSign's most basic, and likely
   - Information needed to contextualize or complete a process/topic should be included in that article whenever possible. 
 
 
-![screen reader text](filename.png)
+![screen reader text](jsignarticle1.png)
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
 ![screen reader text](filename.png)
