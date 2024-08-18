@@ -7,6 +7,9 @@ tags:
   - Consensus
   - Whatfix
   - Writing
+summary: A visual demonstration of vital web-app functionality presented only to impacted users via plugin popup
+ 
+
 ---
 
 ## Problem
