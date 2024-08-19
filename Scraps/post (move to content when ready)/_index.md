@@ -1,4 +1,4 @@
 ---
-title: All my News
-view: article-grid
+# title: All my News
+# view: article-grid
 ---
