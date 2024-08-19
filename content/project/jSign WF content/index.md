@@ -38,6 +38,7 @@ I first created a list of article topics based on jSign's most basic, and likely
 #### Representative Content
 {style="color: red"}
 
+<br/>
 - **Article within Whatfix widget** and its [original article](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm)
 ![screen reader text](jsignarticle1.png)
 
