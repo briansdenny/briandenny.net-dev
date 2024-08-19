@@ -62,6 +62,6 @@ While Whatfix doesn't support linking to Whatfix articles, it does support linki
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thecontactspg/entrcntctsinfo.htm)
 ![screen reader text](jsignarticle3.png)
 
-## Results
+## Results 🤩
 Prior to partnering with Whatfix, the Technical Documentation team at Consensus had not engaged in much joint content creation and had instead divided product writing tasks between individual team members, an approach that mirrored the broader departmental insulation at play across the company. This project represents my initial effort at transitioning the team away from these silos and toward a more collaborate approach that encourages shared awareness of and interest our microcontent program.
 <!--more-->

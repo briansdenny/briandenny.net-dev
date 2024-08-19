@@ -86,14 +86,14 @@ Each of the images below are part of a sequence of steps that walk users through
 <br/>
 
 **Articles** 
-There are dozens of microcontent articles available to users, and more are constantly being added. I have created display rules so that specific articles appear by default depending on the page the user is on when they open the Help widget. The Technical Documentation team regularly reports on article metrics to better understand which users are accessing the articles and when. Some of the insights gleaned from this reporting can be found in the Results section below.
+There are dozens of microcontent articles available to users, and more are constantly being added. I have created display rules so that specific articles appear by default depending on the page the user is on when they open the Help widget. The Technical Documentation team regularly reports on article metrics to better understand which users are accessing the articles and when.
 ![screen reader text](Article.png)
 ![screen reader text](Article 2.png)
 ![screen reader text](Article3.png)
 ![screen reader text](Article4.png)
 
 
-## Results
+## Results 🤩
 Since the release of the new application, the new content has been viewed by hundreds of thousands of users and both the Product team and the Technical Writing team have gained a variety of valuable insights. For instance, we know that users who accepted the "Compose a Fax (Walk-Through)" offer from the first popup presented on this page completed the walk-through more frequently than did users who accessed it from the Help widget. We also know that 85% of users who completed the walk-through provided feedback, and 87% of user feedback said they found it helpful.
 
 

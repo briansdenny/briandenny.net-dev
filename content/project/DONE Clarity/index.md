@@ -9,10 +9,10 @@ summary: Snappy and relatable email verbiage to quickly entice prospective Clari
 
 
 ## Problem
-Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](https://drive.google.com/file/d/1to2X4P_ulOAjNJ-iDREY288haDhPOzyb/view) and [data sheet](https://drive.google.com/file/d/1QUnaQ8GHml8dWH7NMDoTc-_OpoctIPxd/view). I was asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
+Product leadership at Consensus Cloud Solutions wanted to shape an upcoming sales campaign but found the existing marketing material for its Clarity product both too complex and too vague to entice potential customers. Take a peek at the [sales sheet](https://drive.google.com/file/d/1to2X4P_ulOAjNJ-iDREY288haDhPOzyb/view) and [data sheet](https://drive.google.com/file/d/1QUnaQ8GHml8dWH7NMDoTc-_OpoctIPxd/view). The Associate Director of Documentation and I were asked to write several shorter, more compelling marketing pieces for potential inclusion in a future email campaign. 
 
 ## Solution
-After reviewing the existing marketing material, I devised a list of questions to ensure I sufficiently understood the product. After gathering responses to those questions from SMEs in the Product department, I began writing. My goal was to create **concise and catchy pieces** (see below) that emphasized the brand name and functionality.
+After reviewing the existing marketing material, I devised a list of questions to ensure I sufficiently understood the product. After gathering responses to those questions from SMEs in the Product department, The Associate Director and I began writing independently. I created two **concise and catchy pieces** (see below) that emphasized the brand name and functionality.
 
 <br/>
 
@@ -54,6 +54,7 @@ Clarity connects to your eFax account, identifies information in your incoming f
 ### Learn more about Clarity
 Any EHR system with patient matching and direct messaging can take advantage of Clarity’s cutting-edge solutions. [Find out how Clarity is a clear match](https://www.consensus.com/request-a-demo/) for your practice, and start automating your patient records today.
 
-
+## Results 🤩
+As is sometimes the case with projects I work on for other teams or departments, I have little insight into the final results. I do know, however, that the revised content has been shared with the Manager of SEO Content and the Senior Director of Product Marketing.
 
 <!--more-->
