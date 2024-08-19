@@ -212,7 +212,10 @@ languages:
 
 ## About Me
 
-Hello! My extensive professional background in writing, editing, research, and teaching has opened many interesting doors for me, and I'm excited for the future as I apply my diverse skillset toward worthy endeavors. Poke around my site to learn more, and reach out via email or LinkedIn if you'd like to connect. 😃
+Hello! I'm a writer and editor with formal training in research methodologies (quantitative and qualitative) and many years of experience teaching and coaching adults. I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. Poke around my site for awhile, and reach out via email or LinkedIn if you'd like to connect. 😃
+
+
+
 
 
 
