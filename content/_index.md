@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'More About Me'
+      title: 'A Little More About Me'
       subtitle: ''
       text: |-
         I'm a writer and editor with an extensive background in research methodologies (quantitative and qualitative) and adult teaching and coaching. I get most excited when I'm making measurable impacts through words, research, or personal connections! I'm naturally inquisitive, so I enjoy learning and am always eager to take on new challenges. My experience with research, education, and teaching has refined my ability to ask the right questions, effectivly analyze problems, identify creative solutions, report my findings, and teach others how to do the same.
@@ -41,7 +41,7 @@ sections:
       columns: '1'
   - block: markdown
     content:
-      title: 'What Others Are Saying'
+      title: 'What Others Are Saying About Me'
       subtitle: ''
       text: |-
         Product Manager
