@@ -41,18 +41,50 @@ I first created a list of content pieces based on the program manager’s requir
 #### Representative Content
 {style="color: red"}
 
-![screen reader text](CAF.png)
 
-![screen reader text](MCFlow.jpg)
-![screen reader text](oldsite.jpg)
-![screen reader text](oldsite2.png)
+<br/>
 
-![screen reader text](forward.png)
-![screen reader text](attachments.png)
-![screen reader text](addrecipient.png)
+**Popups**
+The first two popups below show to every user during their first two logins and offer users the opportunity to access a guided walkthrough of page functionality. One of those flows is included in its entirety in a later section on this page. The final two popups below were created specifically at the request of Product leadership. Being able to create and implement Whatfix content outside of the company's regular software development lifecycle means I regularly get requests to implement Whatfix solutions to a variety of problems that come to the attention of Product leadership.  
+![screen reader text](PMCF.jpg)
+![screen reader text](PCAF.jpg)
+![screen reader text](Poldsite.jpg)
+![screen reader text](Psentfax.jpg)
+![screen reader text](Psuspended.jpg)
+
+<br/>
+<br/>
+
+**Smart Tips** 
+Each of the two Smart Tips below was created at the Product Manager's request to address specific user issues or questions. 
+![screen reader text](STattachments.png)
+![screen reader text](STforward.png)
+
+<br/>
+<br/>
+
+**Beacons** 
+The first beacon below was created to address a substantial usability issue on the redesigned site. The Technical Documentation team is currently working on an improved selector-based solution that will supply in-the-moment information specifically to users who need it. 
+![screen reader text](Baddrecipient.png)
+![screen reader text](Boldsite.png)
+![screen reader text](B2.png)
+
+
+<br/>
+<br/>
+
+**Walk-Throughs** 
+Each of the images below are part of a sequence of steps that walk users through the process of composing a fax on the redesigned application. Users can either simply read the instructions to become acquainted with the process or follow along and compose their first fax while completing the walk-through. After completing the walk-through, users are presented with a brief survey about their experience. Those results can be found below.
+![screen reader text](FCAF1.png)
+![screen reader text](FCAF2.png)
+![screen reader text](FCAF3.png)
+![screen reader text](FCAF4.png)
+![screen reader text](FCAF5.png)
+![screen reader text](FCAF6.png)
+
 
 ## Results
-Since the release of the new application, the new content has been viewed by hundreds of thousands of users and both the Product team and the Technical Writing team have gained a variety of valuable insights.
+Since the release of the new application, the new content has been viewed by hundreds of thousands of users and both the Product team and the Technical Writing team have gained a variety of valuable insights. For instance, 
 
 
 <!--more-->
