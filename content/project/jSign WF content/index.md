@@ -32,10 +32,12 @@ I first created a list of article topics based on jSign's most basic, and likely
   - Bullet pointed lists should contain only one level (unlike this one, which contains two)
   - Avoid inserting a bullet pointed list anywhere in a grammatical sentence unless the final bullet completes the sentence.
 - **Don't reference other articles**
-  - Whatfix doesn't support clickable links to Whatfix articles or Whatfix content.[^1]
+  - Whatfix doesn't support clickable links to Whatfix articles or Whatfix content.
   - Information needed to contextualize or complete a process/topic should be included in that article whenever possible. 
 
-[^1]: Whatfix does, however, support linking to external URLs. As you'll see, the revised articles below include links to the relevant original help articles. This provided an easy way for users to locate the exhaustive instructions as we transitioned away from the traditional format. 
+{{% callout note %}}
+While Whatfix doesn't support linking to Whatfix articles, it does support linking to external URLs. The revised articles below include links to the relevant original help articles. This provided an easy way for users to locate the exhaustive instructions as we transitioned away from the traditional format.{{% /callout %}}
+
 
 #### Representative Content
 {style="color: red"}
@@ -49,16 +51,6 @@ I first created a list of article topics based on jSign's most basic, and likely
 
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thecontactspg/entrcntctsinfo.htm)
 ![screen reader text](jsignarticle3.png)
-
-
-![screen reader text](filename.png)
-![screen reader text](filename.png)
-![screen reader text](filename.png)
-![screen reader text](filename.png)
-![screen reader text](filename.png)
-
-## Results
-
 
 
 <!--more-->
