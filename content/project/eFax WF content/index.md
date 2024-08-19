@@ -41,11 +41,12 @@ I first created a list of content pieces based on the program manager’s requir
 #### Representative Content
 {style="color: red"}
 
+![screen reader text](CAF.png)
 
 ![screen reader text](MCFlow.png)
 ![screen reader text](oldsite.png)
 ![screen reader text](oldsite2.png)
-![screen reader text](CAF.png)
+
 ![screen reader text](forward.png)
 ![screen reader text](attachments.png)
 ![screen reader text](addrecipient.png)
