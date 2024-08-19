@@ -35,7 +35,7 @@ sections:
       title: 'A Little More About Me'
       subtitle: ''
       text: |-
-       My writing, editing, research, and teaching have opened many interesting doors for me, and I'm excited for the future! My varied skillset has refined my ability to ask tough questions, effectively analyze problems, identify creative solutions, report on my findings, and teach others how to do the same.
+       My writing, editing, research, and teaching have opened many interesting doors for me, and I'm excited for the future! As disparate as my skillset may seem, it has effectively refined my ability to analyze tough problems, ask the right questions, identify creative solutions, report on my findings, and teach others how to do the same.
         
     design:
       columns: '1'
