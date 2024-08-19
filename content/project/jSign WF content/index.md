@@ -11,7 +11,7 @@ summary: Collaborate effort as technical writing team transitions toward more mo
 Consensus Cloud Solutions had begun partnering with Whatfix to both transition away from single-source, topic-based authoring for external help content and prepare to implement Whatfix, a digital adoption platform, as the primary source of in-app help content on its soon-to-be redesigned web app for its flagship brand. The initial stage in this transition involved learning how to use the Whatfix platform to create help content for jSign, a document signing application with a smaller consumer base than the flagship brand. The [original help documentation](https://docs.jsign.com/help/index.htm) for jSign is nearly exhaustive and would be informative for anyone who reads it. However, its length and organizational complexity present a high bar to clear for most users and make it unusable for Whatfix content. Thus, the primary help content for Whatfix would need to be written from scratch and in a style that was markedly different from what the Technical Documentation team was accustomed to. 
 
 ## Solution
-I first created a list of article topics based on jSign's most basic, and likely most common, procedures. I then divided the writing tasks among my team and provided a list of **basic writing guidelines** (see below) to help ensure the content was appropriate for the new Whatfix format. After the initial content was written, the Technical Writing team engaged in a peer review process. To ensure the final content functioned properly, I created the display rules for the Whatfix content and widgets that would house the final written pieces. Finally, the team's writing was added to the **formatted Whatfix content** (see below) and made live for all end users. 
+I first created a list of article topics based on jSign's most basic, and likely most common, procedures. I then divided the writing tasks among myself and my team and provided a list of **basic writing guidelines** (see below) to help ensure the content was appropriate for the new Whatfix format. After the initial writing phase, I provided feedback during a group review meeting to calibrate our writing. To ensure the final articles functioned properly in the application, I created display rules for the Whatfix content and widgets that would house the written pieces. After approving each article, I added the writing to the **formatted Whatfix content** (see below) and pushed it live to all end users. 
 
 <br/>
 
@@ -39,10 +39,10 @@ I first created a list of article topics based on jSign's most basic, and likely
 {style="color: red"}
 
 <br/>
-- **Article within Whatfix widget** and its [original article](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm)
+**Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm)
 ![screen reader text](jsignarticle1.png)
 
-**Article within Whatfix widget** and its [original article](https://docs.jsign.com/help/webapp/themanagepg/indctwhowhr2sgn.htm)
+**Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/themanagepg/indctwhowhr2sgn.htm)
 ![screen reader text](jsignarticle2.png)
 
 
