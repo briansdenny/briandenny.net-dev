@@ -13,6 +13,6 @@ As Senior Technical Writer and Whatfix Lead at Consensus Cloud Solutions, part o
 I compiled [these step-by-step instructions](https://docs.google.com/document/d/1FHIZ73Q7WXiBeULPJdtQnU52fh-oQejYHUzkf4KBCPM/edit?usp=sharing) as a reference sheet my team could use to begin exploring the process of identifying jQuery selectors. While these instructions are not necessarily the easiest way to identify selectors, I intentionally wrote them so my team would gain more hands-on experience reading HTML code. 
 
 ## Results 🤩
-These instructions, along with a series of workshops where I guided my team the process, have resulted in every member of the Technical Writing team at Consensus increasing their capacity to both ideate Whatfix content that relies on selectors and independently identify selectors for use in that content.
+These instructions, along with a series of workshops where I guided my team through the process, have resulted in every member of the Technical Writing team at Consensus increasing their capacity to both ideate Whatfix content that relies on selectors and independently identify selectors for use in that content. I have since been able to delegate selector identification tasks to members of the team. Their increased capacity also means they more fully understand how Whatfix content works. 
 
 <!--more-->
