@@ -66,7 +66,6 @@ Each of the Smart Tips below was created at the Product Manager's request to add
 **Beacons** 
 The first beacon below was created to address a substantial usability issue on the redesigned site. The Technical Documentation team is currently working on an improved selector-based solution to provide in-the-moment information specifically to users who need it. 
 ![screen reader text](Baddrecipient.png)
-![screen reader text](Boldsite.png)
 ![screen reader text](B2.png)
 
 
