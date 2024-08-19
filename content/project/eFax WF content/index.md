@@ -73,13 +73,24 @@ The first beacon below was created to address a substantial usability issue on t
 <br/>
 
 **Walk-Throughs** 
-Each of the images below are part of a sequence of steps that walk users through the process of composing a fax on the redesigned application. Users can either simply read the instructions to become acquainted with the process or follow along and compose their first fax while completing the walk-through. After completing the walk-through, users are presented with a brief survey about their experience. Those results can be found below.
+Each of the images below are part of a sequence of steps that walk users through the process of composing a fax on the redesigned application. Users can either simply read the instructions to become acquainted with the process or follow along and compose their first fax while completing the walk-through. After completing the walk-through, users are presented with a brief survey about their experience. Those results can be found in the Results section below.
 ![screen reader text](FCAF1.png)
 ![screen reader text](FCAF2.png)
 ![screen reader text](FCAF3.png)
 ![screen reader text](FCAF4.png)
 ![screen reader text](FCAF5.png)
 ![screen reader text](FCAF6.png)
+
+
+<br/>
+<br/>
+
+**Articles** 
+There are dozens of microcontent articles available to users, and more are constantly being added. I have created display rules so that specific articles appear by default depending on the page the user is on when they open the Help widget. The Technical Documentation team regularly reports on article metrics to better understand which users are accessing the articles and when. Some of the insights gleaned from this reporting can be found in the Results section below.
+![screen reader text](Article.png)
+![screen reader text](Article 2.png)
+![screen reader text](Article3.png)
+![screen reader text](Article4.png)
 
 
 ## Results
