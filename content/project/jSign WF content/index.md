@@ -47,11 +47,16 @@ While Whatfix doesn't support linking to Whatfix articles, it does support linki
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm) 
 ![screen reader text](jsignarticle1.png)
 
+<br/>
+
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/themanagepg/indctwhowhr2sgn.htm)
 ![screen reader text](jsignarticle2.png)
 
-**Microcontent Article** ("Add Signer Contact Info") pared down from its [original version](https://docs.jsign.com/help/webapp/thecontactspg/entrcntctsinfo.htm)
+<br/>
+
+**Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thecontactspg/entrcntctsinfo.htm)
 ![screen reader text](jsignarticle3.png)
 
-
+## Results
+Prior to partnering with Whatfix, the Technical Documentation team at Consensus had not engaged in much collaborative content creation and had instead divided product writing tasks between individual team members.
 <!--more-->
