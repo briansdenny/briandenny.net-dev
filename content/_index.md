@@ -44,11 +44,12 @@ sections:
       title: 'What Others Are Saying'
       subtitle: ''
       text: |-
-        Manager
-        > Brian is awesome.
+        Product Manager
+        > ...you are awesome =D
         
-        Coworker
-        > Brian is awesome.
+        Colleague
+        > I think this is excellent feedback and the suggestions are good - relevant and actionable!
+        > At some point, I would also like to speak to you about possibly joining the DEI Council. I think you would make a good candidate and I know you are outspoken and reflective enough to share good ideas.
 
         {{< spoiler text="Click for excerpts from 2024 review" >}}
         Put bluntly, Brian rocked my expectations for this first half of 2024. Under his guidance we were able to:
