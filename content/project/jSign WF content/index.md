@@ -39,6 +39,7 @@ I first created a list of article topics based on jSign's most basic, and likely
 {style="color: red"}
 
 <br/>
+
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm)
 ![screen reader text](jsignarticle1.png)
 
