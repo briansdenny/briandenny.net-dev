@@ -44,12 +44,13 @@ While Whatfix doesn't support linking to Whatfix articles, it does support linki
 
 <br/>
 
-**Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm) ![screen reader text](jsignarticle1.png)
+**Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm) 
+![screen reader text](jsignarticle1.png)
 
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/themanagepg/indctwhowhr2sgn.htm)
 ![screen reader text](jsignarticle2.png)
 
-**Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thecontactspg/entrcntctsinfo.htm)
+**Microcontent Article** ("Add Signer Contact Info") pared down from its [original version](https://docs.jsign.com/help/webapp/thecontactspg/entrcntctsinfo.htm)
 ![screen reader text](jsignarticle3.png)
 
 
