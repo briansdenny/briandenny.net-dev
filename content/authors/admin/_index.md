@@ -67,7 +67,7 @@ work:
     company_name: Consensus Cloud Solutions, Inc
     company_url: 'https://www.consensus.com/'
     company_logo: ''
-    date_start: 2023-03-01
+    date_start: 2022-03-01
     date_end: ''
     summary: |2-
          

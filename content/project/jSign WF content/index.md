@@ -1,6 +1,6 @@
 ---
 title: Converting Traditional User Manual into Microcontent
-date: 2024-03-08
+date: 2022-06-20
 toc: false
 tags:
  
