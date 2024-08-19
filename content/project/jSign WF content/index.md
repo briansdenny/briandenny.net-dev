@@ -38,6 +38,7 @@ I first created a list of article topics based on jSign's most basic, and likely
 {{% callout note %}}
 While Whatfix doesn't support linking to Whatfix articles, it does support linking to external URLs. The revised articles below include links to the relevant original help articles. This provided an easy way for users to locate the exhaustive instructions as we transitioned away from the traditional format.{{% /callout %}}
 
+<br/>
 
 #### Representative Content
 {style="color: red"}
@@ -48,13 +49,13 @@ While Whatfix doesn't support linking to Whatfix articles, it does support linki
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thedashboardpg/uplddcmts.htm) 
 ![screen reader text](jsignarticle1.png)
 
-
+<br/>
 <br/>
 
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/themanagepg/indctwhowhr2sgn.htm)
 ![screen reader text](jsignarticle2.png)
 
-
+<br/>
 <br/>
 
 **Microcontent Article** pared down from its [original version](https://docs.jsign.com/help/webapp/thecontactspg/entrcntctsinfo.htm)
