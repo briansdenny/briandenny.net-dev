@@ -39,6 +39,7 @@ I first created a list of article topics based on jSign's most basic, and likely
 While Whatfix doesn't support linking to Whatfix articles, it does support linking to external URLs. The revised articles below include links to the relevant original help articles. This provided an easy way for users to locate the exhaustive instructions as we transitioned away from the traditional format.{{% /callout %}}
 
 <br/>
+<br/>
 
 #### Representative Content
 {style="color: red"}
