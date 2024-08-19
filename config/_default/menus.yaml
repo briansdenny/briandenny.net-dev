@@ -7,7 +7,7 @@ main:
   - name: Experience
     url: experience/
     weight: 10
-  - name: Portfolio Projects
+  - name: Portfolio
     url: /#portfolio
     weight: 20
   - name: Papers & Presentations
