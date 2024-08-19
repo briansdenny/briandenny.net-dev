@@ -88,7 +88,7 @@ Each of the images below are part of a sequence of steps that walk users through
 **Articles** 
 There are dozens of microcontent articles available to users, and more are constantly being added. I have created display rules so that specific articles appear by default depending on the page the user is on when they open the Help widget. The Technical Documentation team regularly reports on article metrics to better understand which users are accessing the articles and when.
 ![screen reader text](Article.png)
-![screen reader text](Article 2.png)
+![screen reader text](Article2.png)
 ![screen reader text](Article3.png)
 ![screen reader text](Article4.png)
 
