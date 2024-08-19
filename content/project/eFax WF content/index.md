@@ -43,7 +43,7 @@ I first created a list of content pieces based on the program manager’s requir
 
 ![screen reader text](CAF.png)
 
-![screen reader text](MCFlow.png)
+![screen reader text](MCFlow.jpg)
 ![screen reader text](oldsite.png)
 ![screen reader text](oldsite2.png)
 
