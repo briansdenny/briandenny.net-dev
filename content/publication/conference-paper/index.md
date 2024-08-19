@@ -29,7 +29,7 @@ abstract: I served as the keynote speaker during Whatfix's inaugural in-person U
 
 
 # Summary. An optional shortened abstract.
-summary: Keynote speech to Whatfix User Group on the many successes resulting from Consensus Cloud Solutions, Inc's partnership with Whatfix, as well as the many lessons learned
+summary: Keynote speech to Whatfix User Group on the many successes and lessons stemming from Consensus' partnership with Whatfix
 
 tags:
 
