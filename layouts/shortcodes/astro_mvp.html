@@ -1,0 +1,38 @@
+<!-- Horoscope MVP Shortcode -->
+<div id="astro-mvp" class="astro-mvp-widget" style="border:1px solid rgba(0,0,0,0.08); padding:1rem; border-radius:0.75rem; max-width:680px;">
+  <form id="astro-mvp-form" novalidate>
+    <div style="display:grid; grid-template-columns: 1fr 1fr; gap:0.75rem; margin-bottom:0.75rem;">
+      <label style="display:flex; flex-direction:column; font-size:0.95rem;">
+        <span>Date of birth</span>
+        <input type="date" name="birth_date" required />
+      </label>
+      <label style="display:flex; flex-direction:column; font-size:0.95rem;">
+        <span>Time of birth (local)</span>
+        <input type="time" name="birth_time" step="60" />
+      </label>
+    </div>
+
+    <label style="display:flex; flex-direction:column; font-size:0.95rem; margin-bottom:0.75rem;">
+      <span>Birth location (city, country)</span>
+      <input type="text" name="birth_location" placeholder="e.g., Boston, USA" />
+    </label>
+
+    <div style="display:flex; gap:0.5rem; align-items:center; margin-top:0.25rem;">
+      <button type="submit" style="padding:0.5rem 0.9rem; border-radius:0.5rem; border:1px solid rgba(0,0,0,0.12); background:#f7f7f7; cursor:pointer;">
+        Compute
+      </button>
+      <span id="astro-mvp-status" aria-live="polite" style="font-size:0.9rem; opacity:0.8;"></span>
+    </div>
+  </form>
+
+  <div id="astro-mvp-output" style="margin-top:1rem;"></div>
+</div>
+
+{{- /* Load the JS via Hugo Pipes; we'll create assets/js/astro-mvp.js next. */ -}}
+{{- $src := resources.Get "js/astro-mvp.js" -}}
+{{- if $src -}}
+  {{- $js := $src | js.Build (dict "minify" true) -}}
+  <script defer src="{{ $js.RelPermalink }}"></script>
+{{- else -}}
+  <!-- Note: assets/js/astro-mvp.js not found yet. Add it to silence this message. -->
+{{- end -}}
